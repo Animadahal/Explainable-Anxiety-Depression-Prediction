@@ -21,7 +21,7 @@ An explainable, uncertainty-aware ML framework for predicting anxiety and depres
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook anxiety_depression_prediction.ipynb
+jupyter notebook Anxiety and Depression Risk Prediction System.ipynb
 ```
 
 > Dataset not included — add your own data file and update the path at the top of the notebook.
